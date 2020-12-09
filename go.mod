@@ -91,6 +91,8 @@ replace (
 	github.com/grpc-ecosystem/grpc-gateway => github.com/grpc-ecosystem/grpc-gateway v1.12.2
 	github.com/improbable-eng/grpc-web => github.com/improbable-eng/grpc-web v0.0.0-20181111100011-16092bd1d58a
 
+	github.com/argoproj/gitops-engine => github.com/trown/gitops-engine v0.2.2-0.20201209164909-55dec1e5ade1
+
 	google.golang.org/grpc => google.golang.org/grpc v1.15.0
 
 	k8s.io/api => k8s.io/api v0.19.2
